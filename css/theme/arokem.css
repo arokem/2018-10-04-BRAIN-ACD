@@ -204,7 +204,7 @@ body {
 
 .reveal .cite {
   position: absolute;
-  left: 750px;
+  left: 650px;
   top: 600px;
   font-size: 0.6em;
 }
@@ -276,4 +276,3 @@ body {
     right: -10em;
     opacity: 0.5;}
 
-  
